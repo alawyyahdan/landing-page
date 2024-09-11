@@ -1,7 +1,7 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "aghea.biz.id",
+	"alias": "sayato.lol",
 	"cleanUrls": true,
 	"public": true,
 	"regions": ["lhr1"],
@@ -16,7 +16,7 @@
 		{ "source": "/twitter", "destination": "https://bit.ly/3TtYbxM" },
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/crisminolog"
+			"destination": "https://twitter.com/direct_messages/create/abangcilor"
 		}
 	]
 }
